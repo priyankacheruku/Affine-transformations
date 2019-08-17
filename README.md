@@ -1,2 +1,2 @@
 # Affine-transformations
-An affine transformation is an important class of linear 2-D geometric transformations which maps variables (e.g. pixel intensity values located at position Eqn:eqnxy1 in an input image) into new variables (e.g. Eqn:eqnxy2 in an output image) by applying a linear combination of translation, rotation, scaling and/or shearing (i.e. non-uniform scaling in some directions) operations.
+An affine transformation is an important class of linear 2-D geometric transformations which maps variables into new variables  by applying a linear combination of translation, rotation, scaling and interpolation operations.
