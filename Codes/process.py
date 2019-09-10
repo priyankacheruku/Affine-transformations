@@ -1,10 +1,10 @@
-from flask import Flask, render_template,jsonify,request,make_response,send_file,redirect,url_for
-import json
+from flask import Flask, render_template,request
+
 import numpy as np
 import cv2 as cv
-import matplotlib.pyplot as plt
+
 from PIL import Image
-import os
+
 import imutils
 
 app = Flask(__name__)
