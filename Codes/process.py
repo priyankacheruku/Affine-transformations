@@ -3,8 +3,6 @@ from flask import Flask, render_template,request
 import numpy as np
 import cv2 as cv
 
-from PIL import Image
-
 import imutils
 
 app = Flask(__name__)
