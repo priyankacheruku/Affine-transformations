@@ -1,7 +1,9 @@
+
+"""Deploy to local """
+
 1.clone/download the repository
-2.cross check the requirement.txt (should install the packages)
-3.invoke venv using commad in terminal
-	 "source venv/bin/activate"
+2.invoke virtualenvironment.
+3.install using requirement.txt (should install the packages)
 4.run the python script(process.py)
 	"python process.py"
 5.open the link provided as
