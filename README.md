@@ -20,4 +20,4 @@ TECHNOLOGIES USED:
     Front-end: HTML,CSS,BOOTSTRAP
     Back-end : python(opencv,imutils,pill),js(ajax,jquery)
     
-NOTE:deployment.txt have steps to deploy the source code.
+NOTE:deployment.txt have steps to deploy the source code into local.

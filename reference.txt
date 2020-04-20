@@ -13,4 +13,4 @@
 	
 5.flask
 	"https://www.tutorialspoint.com/flask/flask_environment.htm"
-	note: virtualenv is already installed as venv
+	

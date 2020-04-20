@@ -2,10 +2,14 @@
 """Deploy to local """
 
 1.clone/download the repository
-2.invoke virtualenvironment.
+	git clone https://github.com/priyankacheruku/Affine-transformations.git
+2.create virtualenvironment using python3 and invoke.
+	"virtualenv -p python3 vaffine"
+	"source vaffine/bin/activate"
 3.install using requirement.txt (should install the packages)
+	pip install -r requirements.txt
 4.run the python script(process.py)
 	"python process.py"
-5.open the link provided as
+5.open the link provided similar to
 	"http://127.0.0.1:5000/"
-6.deployment completed follow instructions in "Procedure Documentation.docx" available in documentation
+6.Deployment completed follow instructions in "Procedure Documentation.docx" available in documentation.
